@@ -14,5 +14,5 @@ Use laptop camera to capture images while moving finger to one direction (up, do
   - Libraries: Opencv 2.4, numpy, etc.  
 
 ## Reference
-[1] R. M. Baby and R. R. Ahamed, "Optical Flow Motion Detection on Raspberry Pi," 2014 Fourth International Conference on Advances in Computing and Communications, Cochin, 2014, pp. 151-152.
-    URL: http://ieeexplore.ieee.org.uproxy.library.dc-uoit.ca/stamp/stamp.jsp?tp=&arnumber=6906011&isnumber=6905967
+[1] R. M. Baby and R. R. Ahamed, "Optical Flow Motion Detection on Raspberry Pi," 2014 Fourth International Conference on Advances in Computing and Communications, Cochin, 2014, pp. 151-152.  
+URL: http://ieeexplore.ieee.org.uproxy.library.dc-uoit.ca/stamp/stamp.jsp?tp=&arnumber=6906011&isnumber=6905967
