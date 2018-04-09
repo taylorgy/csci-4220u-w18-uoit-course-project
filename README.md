@@ -22,12 +22,13 @@ Use laptop camera to capture images while moving finger to one direction (up, do
 $ python project.py [<video_source>]
 # default video_source is laptop camera
 ```
-- key operations of program:
-  1 - toggle optical flow visualization
-  2 - toggle hand contours visualization
-  3 - toggle HSV flow visualization
+  - key operations of program:
+    1 - toggle optical flow visualization
+    2 - toggle hand contours visualization
+    3 - toggle HSV flow visualization
 
-- press 'ESC' to quit
+  - press 'ESC' to quit
+_Wear a white shirt or hold a piece of white paper in your capture to get the correct white balance. Otherwise, hand may not be detected based on its color._
 
 ## Result demo
 
