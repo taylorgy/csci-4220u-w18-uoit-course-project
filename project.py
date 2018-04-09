@@ -3,10 +3,15 @@ import cv2
 # import video
 
 help_message = '''
-USAGE: opt_flow.py [<video_source>]
+USAGE: project.py [<video_source>]
+(default video_source: laptop camera)
+
 Keys:
- 1 - toggle HSV flow visualization
+ 1 - toggle optical flow visualization
  2 - toggle hand contours visualization
+ 3 - toggle HSV flow visualization
+
+Press 'ESC' to quit.
 '''
 
 def draw_flow(img, flow, step=16):
