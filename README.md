@@ -28,6 +28,7 @@ $ python project.py [<video_source>]
     3 - toggle HSV flow visualization
 
   - press 'ESC' to quit
+  
 _Wear a white shirt or hold a piece of white paper in your capture to get the correct white balance. Otherwise, hand may not be detected based on its color._
 
 ## Result demo
