@@ -12,8 +12,12 @@ Use laptop camera to capture images while moving finger to one direction (up, do
 - Hardware: laptop with camera  
 - Software:  
   - OS: Windows 7+  
-  - Language: Python 2.7
-  - Libraries: Opencv 2.4, numpy  (You could use pip to install required libs)
+  - Language: Python 2.7  
+  - Libraries: Opencv 2.4, numpy  (You could use 'pip' command to install required libs)  
+  ```
+  $ pip install cv2
+  $ pip install numpy
+  ```
 
 ## Usage
 - project.py
