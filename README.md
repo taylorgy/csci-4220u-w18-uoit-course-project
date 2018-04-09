@@ -41,7 +41,7 @@ _Wear a white shirt or hold a piece of white paper in your capture to get the co
 
 ## Reference
 [1] R. M. Baby and R. R. Ahamed, "Optical Flow Motion Detection on Raspberry Pi," 2014 Fourth International Conference on Advances in Computing and Communications, Cochin, 2014, pp. 151-152.  
-URL: http://ieeexplore.ieee.org.uproxy.library.dc-uoit.ca/stamp/stamp.jsp?tp=&arnumber=6906011&isnumber=6905967
-[2] URL:https://sandipanweb.wordpress.com/2018/02/25/implementing-lucas-kanade-optical-flow-algorithm-in-python/
-[3] URL:https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/
-[4] URL:http://creat-tabu.blogspot.ca/2013/08/opencv-python-hand-gesture-recognition.html
+URL: http://ieeexplore.ieee.org.uproxy.library.dc-uoit.ca/stamp/stamp.jsp?tp=&arnumber=6906011&isnumber=6905967  
+[2] URL:https://sandipanweb.wordpress.com/2018/02/25/implementing-lucas-kanade-optical-flow-algorithm-in-python/  
+[3] URL:https://www.intorobotics.com/9-opencv-tutorials-hand-gesture-detection-recognition/  
+[4] URL:http://creat-tabu.blogspot.ca/2013/08/opencv-python-hand-gesture-recognition.html  
