@@ -1,12 +1,11 @@
-# csci-4220u-w18-uoit-course-project
-This is the course project of csci-4220u-w18-uoit: Computer Vision.
+# Optical Flow based Hand Gesture Recognition and Motion Analysis 
+> This is the course project of csci-4220u-w18-uoit: Computer Vision.
 
-## [Optical Flow] Gesture recognition using python + opencv.  
-Use laptop camera to capture images while moving finger to one direction (up, down, left, right, up-left, etc.) in the air. The gesture recognition program identifies the motion of the finger between every two frames to calculate the motion direction and velocity, then shows the motion simultaneously by moving a ball on the canvas. As shown in the following figure.  
+Use laptop camera to capture images while moving a finger to any direction (up, down, left, right, up-left, etc.) in the air. The gesture recognition program identifies the motion of the finger between every two frames to calculate the motion direction and velocity, then shows the motion simultaneously by moving a ball on the canvas. As shown in the following figure.  
 
 ![image](https://github.com/TaylorGy/csci-4220u-w18-uoit-course-project/blob/master/schematic_diagram.png)  
 
-*Key words:* Optical Flow, Hand and Gesture Detection, YCrCb and HSV Color Space
+*Key words: Optical Flow, Hand Gesture Recognition, YCrCb and HSV Color Space, Python, OpenCV *
 
 ## Environment  
 - Hardware: laptop with camera  
