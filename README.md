@@ -14,7 +14,7 @@ Use laptop camera to capture images while moving a finger to any direction (up, 
   - Language: Python 2.7  
   - Libraries: Opencv 2.4, numpy  (You could use 'pip' command to install required libs)  
   ```
-  $ pip install cv2
+  $ pip install opencv-python
   $ pip install numpy
   ```
 
